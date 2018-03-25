@@ -1,3 +1,4 @@
 Name: William Donayre
 Age: 25
 Favorite Color: Red
+Favorit Country: Peru
